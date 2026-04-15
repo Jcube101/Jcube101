@@ -65,7 +65,7 @@ What makes it rare   →   Most PMs don't ship. I do.
     </td>
     <td width="50%" valign="top">
       <h3>📡 Signal Digest</h3>
-      <p>A personal AI agent that monitors multiple RSS sources, filters ruthlessly through a defined professional lens, and delivers a weekly digest every Monday. A script executes steps — an agent makes decisions. The difference is judgment.</p>
+      <p>A personal AI agent that monitors multiple RSS sources, filters ruthlessly through a defined professional lens, and delivers a weekly digest when I log in.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-e85d04?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
