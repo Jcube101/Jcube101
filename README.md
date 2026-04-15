@@ -7,7 +7,7 @@
 ```
 
 <a href="https://github.com/Jcube101">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1800&color=E85D04&center=true&vCenter=true&random=false&width=600&height=60&lines=I+turn+strategy+into+working+software.;AI+PM+who+actually+ships.;Building+at+the+intersection+of+Ops+%26+AI.;Always+working+on+the+next+thing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1800&color=E85D04&center=true&vCenter=true&random=false&width=600&height=60&lines=I+turn+strategy+into+working+software.;AI+PM+who+actually+ships.;Building+at+the+intersection+of+ops+%26+AI.;Always+working+on+the+next+thing." alt="Typing SVG" />
 </a>
 
 **`AI Product Manager · Builder · Revenue Operations`**
@@ -64,6 +64,27 @@ What makes it rare   →   Most PMs don't ship. I do.
       <a href="https://github.com/Jcube101/call-analysis-pipeline">→ View repo</a>
     </td>
     <td width="50%" valign="top">
+      <h3>📡 Signal Digest</h3>
+      <p>A personal AI agent that monitors multiple RSS sources, filters ruthlessly through a defined professional lens, and delivers a weekly digest every Monday. A script executes steps — an agent makes decisions. The difference is judgment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-e85d04?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/feedparser-e85d04?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jcube101/signal-digest">→ View repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ F1 Points Engine</h3>
+      <p>Simulates Formula 1 championship standings across hypothetical race scenarios. Custom scoring logic, edge case handling, and what-if analysis for any point in the season.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-e85d04?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-191919?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jcube101/f1-points-engine">→ View repo</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>📖 Pocket Stories</h3>
       <p>User-generated micro-fiction. Helps authors build complex short stories. Built as a creative experiment in constrained generative writing.</p>
       <p>
@@ -74,15 +95,6 @@ What makes it rare   →   Most PMs don't ship. I do.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏎️ F1 Points Engine</h3>
-      <p>Simulates Formula 1 championship standings across hypothetical race scenarios. Will help you with F1 Fantasy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-e85d04?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-191919?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Jcube101/f1-points-engine">→ View repo</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 Word Translator</h3>
       <p>Translates vocabulary across languages with contextual meaning, not just literal equivalents. Specifically designed for Indic LLMs</p>
       <p>
@@ -91,6 +103,7 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/word-translator">→ View repo</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -108,5 +121,5 @@ What makes it rare   →   Most PMs don't ship. I do.
 ---
 
 <div align="center">
-  <sub>● Open to collabs on AI × ops tooling</sub>
+  <sub>● Open to collabs on AI × RevOps </sub>
 </div>
