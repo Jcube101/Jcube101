@@ -74,6 +74,18 @@ What makes it rare   →   Most PMs don't ship. I do.
       <a href="https://github.com/Jcube101/sentinel">→ View repo</a> · <a href="https://sentinel-frontend-8hem.onrender.com">→ Live demo</a>
     </td>
     <td width="50%" valign="top">
+      <h3>🐦 Hugin</h3>
+      <p>Personal movie mood recommender — describe how you're feeling, get the right film. Claude interprets the mood, TMDb + OMDb find the picks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-e85d04?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-191919?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-e85d04?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jcube101/hugin">→ View repo</a> · <a href="https://job-joseph.com/projects/hugin">→ Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📡 Signal Digest</h3>
       <p>A personal AI agent that monitors multiple RSS sources, filters ruthlessly through a defined professional lens, and delivers a weekly digest. A script executes steps — an agent makes decisions. The difference is judgment.</p>
       <p>
@@ -83,8 +95,6 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/signal-digest">→ View repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎙️ Call Analysis Pipeline</h3>
       <p>Transcribes and diarises meetings and sales calls. Extracts commitments, subtext, and unresolved tensions from raw audio — distinguishes what was said from what was meant.</p>
@@ -95,6 +105,8 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/call-analysis-pipeline">→ View repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Word Translator</h3>
       <p>FastAPI microservice that translates <code>.docx</code> documents using the Sarvam AI API — built specifically for Indic language pairs. Paragraph-level batching, chunking, rate limiting, and a full test suite.</p>
@@ -105,8 +117,6 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/word-translator">→ View repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏎️ F1 Points Engine</h3>
       <p>Simulates Formula 1 championship standings across hypothetical race scenarios. Custom scoring logic, edge case handling, and what-if analysis for any point in the season.</p>
@@ -116,6 +126,8 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/f1-points-engine">→ View repo</a> · <a href="https://f1-points-engine.onrender.com/dashboard">→ Live dashboard</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📖 Pocket Stories</h3>
       <p>Browser-only interactive fiction editor and player. Create branching narrative stories in YAML, play them with animated transitions, edit them in a visual node-graph editor. No backend, no accounts.</p>
@@ -126,6 +138,7 @@ What makes it rare   →   Most PMs don't ship. I do.
       </p>
       <a href="https://github.com/Jcube101/pocket-stories">→ View repo</a> · <a href="https://Jcube101.github.io/pocket-stories/">→ Live demo</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
