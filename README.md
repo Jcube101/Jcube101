@@ -24,8 +24,6 @@ I'm a Principal Program Manager in Revenue Operations who got tired of waiting f
 
 My work sits at the intersection of **AI, automation, and business operations**. I write the PRD and then ship the tool. Claude Code and n8n are how I close the gap between strategy and execution.
 
-Currently learning hardware too — experimenting with Raspberry Pi for always-on personal automation.
-
 ```
 What I do            →   Revenue ops strategy, AI GTM, automation
 How I do it          →   Python pipelines, AI agents, React frontends
@@ -34,7 +32,16 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 02 · What I build with
+## 02 · Currently building
+
+| Project | What it is | Status |
+|---|---|---|
+| 🛰️ **commute-lens** | Personal commute analytics pipeline — GPX parsing, stop detection, weather overlays | 🟡 Data collection |
+| 🍓 **Raspberry Pi** | Always-on personal automation — moving signal-digest off Windows Task Scheduler | 🔵 Learning |
+
+---
+
+## 03 · What I build with
 
 <div align="center">
 
@@ -51,7 +58,7 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 03 · Public projects
+## 04 · Public projects
 
 <table>
   <tr>
@@ -124,7 +131,15 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 04 · Find me
+## 05 · Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcube101&theme=dark&background=0f0f0f&border=333333&stroke=333333&ring=e85d04&fire=e85d04&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e85d04&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak" />
+</div>
+
+---
+
+## 06 · Find me
 
 <div align="center">
 
