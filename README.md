@@ -1,16 +1,10 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║           WELCOME TO MY GITHUB               ║
-╚══════════════════════════════════════════════╝
-```
+<img src="assets/banner.svg" alt="Job Joseph — AI Product Manager who builds things too" width="100%" />
 
 <a href="https://github.com/Jcube101">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1800&color=E85D04&center=true&vCenter=true&random=false&width=600&height=60&lines=I+turn+strategy+into+working+software.;AI+PM+who+actually+ships.;Building+at+the+intersection+of+ops+%26+AI.;Always+working+on+the+next+thing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1800&color=E85D04&center=true&vCenter=true&random=false&width=600&height=50&lines=I+turn+strategy+into+working+software.;AI+PM+who+actually+ships.;Building+with+Jane%2C+my+AI+agent.;Always+working+on+the+next+thing." alt="Typing SVG" />
 </a>
-
-**`AI Product Manager · Builder · Revenue Operations`**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Jcube101&color=e85d04&style=flat-square&label=profile+views)
 
@@ -35,37 +29,7 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ## 02 · What I build with
 
-<div align="center">
-
-**AI**<br>
-![Claude API](https://img.shields.io/badge/Claude_API-e85d04?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=e85d04)
-![Gemini](https://img.shields.io/badge/Gemini-e85d04?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes_Agent-191919?style=for-the-badge&logoColor=e85d04)
-
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-e85d04?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=e85d04)
-![Go](https://img.shields.io/badge/Go-e85d04?style=for-the-badge&logo=go&logoColor=white)
-
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=e85d04)
-![Three.js](https://img.shields.io/badge/Three.js-e85d04?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-191919?style=for-the-badge&logo=tailwindcss&logoColor=e85d04)
-![Vite](https://img.shields.io/badge/Vite-e85d04?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & data**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-191919?style=for-the-badge&logo=fastapi&logoColor=e85d04)
-![SQLite](https://img.shields.io/badge/SQLite-e85d04?style=for-the-badge&logo=sqlite&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-191919?style=for-the-badge&logo=pocketbase&logoColor=e85d04)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e85d04?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infra**<br>
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-191919?style=for-the-badge&logo=raspberrypi&logoColor=e85d04)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-e85d04?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-191919?style=for-the-badge&logo=tailscale&logoColor=e85d04)
-
-</div>
+<img src="assets/stack.svg" alt="Tech stack — AI: Claude API, Claude Code, Gemini, Hermes Agent. Languages: Python, TypeScript, Go. Frontend: React, Three.js, Tailwind, Vite. Backend and data: FastAPI, SQLite, PocketBase, PostgreSQL. Infra: Raspberry Pi, Cloudflare Tunnel, Tailscale." width="100%" />
 
 ---
 
