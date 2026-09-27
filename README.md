@@ -20,13 +20,14 @@
 
 ## 01 · The actual story
 
-I'm a Principal Program Manager in Revenue Operations who got tired of waiting for engineering bandwidth — so I started building the tools myself.
+I'm a Principal Program Manager in Revenue Operations who got tired of waiting for engineering bandwidth — so I started building the tools myself. Somewhere along the way it stopped being a workaround and became how I think.
 
-My work sits at the intersection of **AI, automation, and business operations**. I write the PRD and then ship the tool. Claude Code and n8n are how I close the gap between strategy and execution.
+My work sits at the intersection of **AI, automation, and operations**. I write the PRD and then ship the tool — 25+ projects so far, most of them self-hosted on a Raspberry Pi. Lately I build alongside **Jane**, my always-on agent, which has made me think hard about what good human–agent collaboration actually looks like.
 
 ```
-What I do            →   Revenue ops strategy, AI GTM, automation
-How I do it          →   Python pipelines, AI agents, React frontends
+What I do            →   AI product management, GTM ops, automation
+How I build          →   Claude Code, Python + TypeScript, self-hosted on a Pi
+Who I build with     →   Jane, my personal agent on Hermes
 What makes it rare   →   Most PMs don't ship. I do.
 ```
 
@@ -36,14 +37,33 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 <div align="center">
 
+**AI**<br>
+![Claude API](https://img.shields.io/badge/Claude_API-e85d04?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=e85d04)
+![Gemini](https://img.shields.io/badge/Gemini-e85d04?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Agent-191919?style=for-the-badge&logoColor=e85d04)
+
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-e85d04?style=for-the-badge&logo=python&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=e85d04)
-![FastAPI](https://img.shields.io/badge/FastAPI-e85d04?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=e85d04)
+![Go](https://img.shields.io/badge/Go-e85d04?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend**<br>
 ![React](https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=e85d04)
 ![Three.js](https://img.shields.io/badge/Three.js-e85d04?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-191919?style=for-the-badge&logo=go&logoColor=e85d04)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-e85d04?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-191919?style=for-the-badge&logo=cloudflare&logoColor=e85d04)
+![Tailwind](https://img.shields.io/badge/Tailwind-191919?style=for-the-badge&logo=tailwindcss&logoColor=e85d04)
+![Vite](https://img.shields.io/badge/Vite-e85d04?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & data**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-191919?style=for-the-badge&logo=fastapi&logoColor=e85d04)
+![SQLite](https://img.shields.io/badge/SQLite-e85d04?style=for-the-badge&logo=sqlite&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-191919?style=for-the-badge&logo=pocketbase&logoColor=e85d04)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e85d04?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infra**<br>
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-191919?style=for-the-badge&logo=raspberrypi&logoColor=e85d04)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-e85d04?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-191919?style=for-the-badge&logo=tailscale&logoColor=e85d04)
 
 </div>
 
