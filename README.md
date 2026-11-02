@@ -293,7 +293,7 @@ I write the spec and make the calls; Claude Code and Jane do most of the typing.
 ## 09 · Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcube101&theme=dark&background=0f0f0f&border=333333&stroke=333333&ring=e85d04&fire=e85d04&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e85d04&sideLabels=aaaaaa&dates=555555&hide_current_streak=true&hide_longest_streak=true&card_width=320" alt="Total GitHub contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcube101&theme=dark&background=0f0f0f&border=333333&stroke=333333&ring=e85d04&fire=e85d04&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e85d04&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak" />
 </div>
 
 ---
@@ -302,9 +302,9 @@ I write the spec and make the calls; Claude Code and Jane do most of the typing.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-job--joseph.com-e85d04?style=for-the-badge)](https://job-joseph.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/job-joseph-j)
-[![Journal](https://img.shields.io/badge/Journal-Slice_of_life-191919?style=for-the-badge)](https://job-joseph.com/journal)
+<a href="https://job-joseph.com"><img src="assets/link-portfolio.svg" alt="Portfolio: job-joseph.com" width="240" /></a>
+<a href="https://linkedin.com/in/job-joseph-j"><img src="assets/link-linkedin.svg" alt="LinkedIn: let's connect" width="240" /></a>
+<a href="https://job-joseph.com/journal"><img src="assets/link-journal.svg" alt="Journal: slice of life" width="240" /></a>
 
 </div>
 
