@@ -8,6 +8,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Jcube101&color=e85d04&style=flat-square&label=profile+views)
 
+<p><b>New here?</b> Play <a href="https://hunter.job-joseph.com/">Hunter</a> · read today's <a href="https://sentinel-frontend-8hem.onrender.com">Sentinel</a> front page · play chess in <a href="https://apps-knightshift.job-joseph.com/">Knightshift</a>, built by my agent</p>
+
 </div>
 
 ---
@@ -27,13 +29,28 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 02 · What I build with
+## 02 · How I build
+
+I run my projects the way I'd run a product, so most of my repos carry the same paper trail:
+
+```
+CLAUDE.md / AGENTS.md  →   how my coding agents should work in the repo
+ROADMAP.md             →   what's next, as self-contained tickets
+LEARNINGS.md           →   what broke, what I decided, and why
+SPEC.md                →   the technical record: stack, architecture, how it works
+```
+
+I write the spec and make the calls; Claude Code and Jane do most of the typing. A good place to start: [Sentinel's learnings](https://github.com/Jcube101/sentinel/blob/main/LEARNINGS.md).
+
+---
+
+## 03 · What I build with
 
 <img src="assets/stack.svg" alt="Tech stack. AI: Claude API, Claude Code, Gemini, Grok, Hermes Agent. Languages: Python, TypeScript, Go. Frontend: React, Three.js, Tailwind, Vite. Backend and data: FastAPI, SQLite, PocketBase, PostgreSQL. Cloudflare: Tunnel, R2, Workers, Access. Self-hosting: Raspberry Pi, Tailscale, systemd." width="100%" />
 
 ---
 
-## 03 · Major projects
+## 04 · Major projects
 
 <table>
   <tr>
@@ -129,7 +146,7 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 04 · Minor projects
+## 05 · Minor projects
 
 - **🏎️ F1 Points Engine**: simulates Formula 1 championship standings across hypothetical race scenarios, with custom scoring logic and what-if analysis for any point in the season. `Python` · `Pandas` · [repo](https://github.com/Jcube101/f1-points-engine) · [live](https://f1-points-engine.onrender.com/dashboard)
 - **🖼️ Surprise Wallpaper**: a new desktop wallpaper every day that teaches you something, like a go-to-market map of a real company, a book's best scene, or a famous painting reimagined. Researched and drawn by Grok; dislike one and it swaps in NASA's picture of the day. `Python` · `xAI Grok` · `Pillow` · [repo](https://github.com/Jcube101/surprise-wallpaper)
@@ -147,7 +164,7 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 05 · Built by my agent, Jane
+## 06 · Built by my agent, Jane
 
 > Jane is my always-on personal agent, running on Hermes. I set the direction, bring the context, and make the final call. Jane researches, builds, verifies, and pushes back. These projects were built by her.
 
@@ -189,7 +206,11 @@ What makes it rare   →   Most PMs don't ship. I do.
 
 ---
 
-## 06 · Private projects
+## 07 · Private projects
+
+<details>
+<summary>Five private builds, including a hackathon Staff Pick (click to expand)</summary>
+<br>
 
 <table>
   <tr>
@@ -251,9 +272,13 @@ What makes it rare   →   Most PMs don't ship. I do.
   </tr>
 </table>
 
+</details>
+
 ---
 
-## 07 · Currently building
+## 08 · Currently building
+
+<sub>Updated November 2026</sub>
 
 | Project | What it is | Status |
 |---|---|---|
@@ -261,25 +286,25 @@ What makes it rare   →   Most PMs don't ship. I do.
 | 🪐 **Mars Colony Manager** | Turn-based colony systems game | 🟡 In progress |
 | 💰 **FinanceTracker** | Local-first personal finance app | 🟡 In progress |
 | 📈 **Vane** | Stock tracking and technical analysis dashboard | 🟡 In progress |
-| 🍓 **Raspberry Pi** | Always-on personal automation, self-hosting the stack behind Cloudflare Tunnels | 🔵 Learning |
 | 🪽 **Hermes Agent** | The runtime behind Jane, my always-on personal agent | 🔵 Learning |
 
 ---
 
-## 08 · Activity
+## 09 · Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcube101&theme=dark&background=0f0f0f&border=333333&stroke=333333&ring=e85d04&fire=e85d04&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e85d04&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcube101&theme=dark&background=0f0f0f&border=333333&stroke=333333&ring=e85d04&fire=e85d04&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e85d04&sideLabels=aaaaaa&dates=555555&hide_current_streak=true&hide_longest_streak=true&card_width=320" alt="Total GitHub contributions" />
 </div>
 
 ---
 
-## 09 · Find me
+## 10 · Find me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-job--joseph.com-e85d04?style=for-the-badge)](https://job-joseph.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/job-joseph-j)
+[![Journal](https://img.shields.io/badge/Journal-Slice_of_life-191919?style=for-the-badge)](https://job-joseph.com/journal)
 
 </div>
 
